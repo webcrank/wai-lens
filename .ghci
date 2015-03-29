@@ -1,0 +1,6 @@
+:set -isrc -idist/build/autogen
+:set -Wall
+:set -XOverloadedStrings
+:l Network.Wai.Lens
+:m + Network.Wai.Lens
+:set prompt ">> "
