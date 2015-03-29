@@ -1,6 +1,7 @@
 name:                wai-lens
 version:             0.1
 synopsis:            Lenses for WAI
+description:         Lenses for WAI
 homepage:            https://github.com/webcrank/wai-lens
 bug-reports:         https://github.com/webcrank/wai-lens/issues
 license:             BSD3
