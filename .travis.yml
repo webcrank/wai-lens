@@ -8,6 +8,8 @@ env:
 
 matrix:
   allow_failures:
+    # 7.10.1 fails with "ghc no longer supports single-file style package databases"
+    - env: GHCVER=7.10.1
     - env: GHCVER=head
 
 before_install:
