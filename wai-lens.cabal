@@ -1,5 +1,5 @@
 name:                wai-lens
-version:             0.1
+version:             0.2
 synopsis:            Lenses for WAI
 description:         Lenses for WAI
 homepage:            https://github.com/webcrank/wai-lens
